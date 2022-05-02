@@ -1,0 +1,13 @@
+name: tutorial-env
+channels:
+    - conda-forge
+dependencies:
+    - python>=3.8
+    - numpy
+    - matplotlib
+    - scipy
+    - astroquery
+    - astropy
+    - tensorflow-gpu=2.4.1
+    - requests
+    - scikit-learn
