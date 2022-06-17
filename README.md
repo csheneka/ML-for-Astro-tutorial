@@ -7,3 +7,8 @@ Binder here:
 Based on a more in-depth tutorial published on https://gitlab.rrz.uni-hamburg.de/
 
 Contact: caroline.heneka@uni-hamburg.de
+
+Data is part of the SDSS Data Release 16 \\
+https://www.sdss.org/science/data-release-publications \\
+Downloaded from: \\
+'https://data.sdss.org/sas/dr16/sdss/spectro/redux/26/spectra/'
