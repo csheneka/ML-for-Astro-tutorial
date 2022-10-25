@@ -6,7 +6,7 @@ Binder here:
 
 Based on a more in-depth tutorial published on https://gitlab.rrz.uni-hamburg.de/
 
-Contact: caroline.heneka@uni-hamburg.de
+Contact: heneka@thphys.uni-heidelberg.de
 
 Data used in folder data_spectra/ is part of the SDSS Data Release 16:
 
