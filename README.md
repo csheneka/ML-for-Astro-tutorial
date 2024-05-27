@@ -17,6 +17,6 @@ https://www.sdss.org/science/data-release-publications
 
 Ahumada et al., The 16th Data Release of the Sloan Digital Sky Surveys: First Release from the APOGEE-2 Southern Survey and Full Release of eBOSS Spectra (Ahumada et al. 2020 ApJS 249, 3)
 
-Retrieved from (May 2022): 
+Retrieved from: 
 
 https://data.sdss.org/sas/dr16/sdss/spectro/redux/26/spectra/
