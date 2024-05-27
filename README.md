@@ -4,6 +4,9 @@ Tutorial for deep learning in astrophysics (SDSS spectral classification)
 Binder here:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/csheneka/ML-for-Astro-tutorial/HEAD)
 
+Google Colab link: 
+<a target="_blank" rel="noopener noreferrer" href="https://colab.research.google.com/github/csheneka/ML-for-Astro-tutorial/blob/main/spectral_classifier.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="drawing" width="150"/> </a>
+
 Based on a more in-depth tutorial published on https://gitlab.rrz.uni-hamburg.de/
 
 Contact: heneka@thphys.uni-heidelberg.de
